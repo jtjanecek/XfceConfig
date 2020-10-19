@@ -25,12 +25,6 @@ MiscRewrapOnResize=TRUE
 MiscUseShiftArrowsToScroll=FALSE
 MiscSlimTabs=FALSE
 MiscNewTabAdjacent=FALSE
-ColorPalette=rgb(7,54,66);rgb(220,50,47);rgb(159,173,68);rgb(181,137,0);rgb(26,88,132);rgb(211,54,130);rgb(42,161,152);rgb(238,232,213);rgb(0,43,54);rgb(203,75,22);rgb(88,110,117);rgb(101,123,131);rgb(131,148,150);rgb(108,113,196);rgb(147,161,161);rgb(253,246,227)
-ColorForeground=#839496
-ColorBackground=#002b36
-ColorCursor=#93a1a1
-ColorBold=#93a1a1
-ColorBoldUseDefault=FALSE
-TabActivityColor=#dc322f
-ColorBoldIsBright=FALSE
+ColorPalette=#000000;#cc0000;#4e9a06;#c4a000;#3465a4;#75507b;#06989a;#d3d7cf;#555753;#ef2929;#8ae234;#fce94f;#739fcf;#ad7fa8;#34e2e2;#eeeeec
+ColorBackground=#317e2eda2eda
 
